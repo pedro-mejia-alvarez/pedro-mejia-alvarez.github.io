@@ -162,7 +162,7 @@ scholar:
   query: "@*"
   group_by: type, year
   group_order: ascending, descending
-  type_order: [article, inproceedings, incollection, book]
+  type_order: [book, incollection, article, inproceedings]
   type_names:
     book: Books
     incollection: Book Chapters
