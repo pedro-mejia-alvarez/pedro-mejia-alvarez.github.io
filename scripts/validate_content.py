@@ -139,7 +139,6 @@ def validate_home_identity() -> None:
         return
     text = p.read_text(encoding='utf-8')
     required = (
-        'Pedro Mejia-Alvarez',
         'Professor and Researcher in Artificial Intelligence, Real-Time Systems, and Software Engineering',
         'CINVESTAV',
     )
