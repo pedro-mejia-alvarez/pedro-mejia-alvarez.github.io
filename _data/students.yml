@@ -18,11 +18,13 @@ phd:
       - Susana Ortega Cisneros
 
 msc:
+  - name: Martha Elvia Morales Meza
+    title: Sistema para la Distribución de Llaves Basado en el Esquema de Compartición de Secretos de Shamir Implementado en FPGA
+    completion: August 2026
+    co_supervisors: Dr. Arturo Díaz Pérez
   - name: Jhonatan Alexander Gomez Gamboa
     title: Automatic Generation of Test Cases from Formal Specifications Using Mutation Testing
-    completion: August 2024
-    status: unverified
-    note: The 2025 CV records August 2024 as the expected graduation date; completion is not stated as verified in the source.
+    completion: December 2024
     co_supervisors:
       - Raul E. Gonzalez
   - name: Julio Martinez Mesa
