@@ -1,0 +1,170 @@
+- id: coecytjal-8297-2019
+  title: Detection, Testing, and Management of Unrecoverable Errors in DBMS Using Non-Volatile Memory
+  dates: 2019-2021
+  funding: COECYTJAL, Government of Jalisco
+  role: Project co-lead with Hugo Coyote (Oracle Mexico)
+  summary: Research on detection, testing, and management of unrecoverable errors in database management systems using non-volatile memory.
+  research: [software-engineering, real-time-databases, software, embedded-dependable-systems]
+  software: []
+
+- id: jalisco-industry40-2018
+  title: Innovation and Entrepreneurship Model for the Jalisco Agroindustry Using Industry 4.0 Technologies
+  dates: 2018-2021
+  funding: CONACYT-Government of Jalisco Mixed Fund
+  role: CINVESTAV project lead; co-responsible with Alfredo Figarola (ITESM Guadalajara)
+  summary: Design and deployment of an innovation and entrepreneurship model for the Jalisco agroindustry using Industry 4.0 technologies.
+  research: [artificial-intelligence, software, embedded-dependable-systems]
+  software: []
+
+- id: jalisco-iot-center-2016
+  title: Center for Innovation, Technological Development, and Internet of Things Applications
+  dates: 2016-2018
+  funding: CONACYT-Government of Jalisco Mixed Fund
+  role: CINVESTAV responsible investigator; joint project with ITESM Guadalajara and Instituto Tecnologico de Zapopan
+  summary: Multi-institution initiative to develop innovation capacity and applications around Internet of Things technologies.
+  research: [software, embedded-dependable-systems, artificial-intelligence]
+  software: []
+
+- id: uam-fault-treatment-2009
+  title: Fault Treatment in Distributed and Interactive Systems
+  dates: 2009-2011
+  funding: PROMEP / Universidad Autonoma Metropolitana
+  role: Participating researcher
+  summary: Collaborative project on fault handling in distributed and interactive systems with researchers from UAM, CINVESTAV, Carnegie Mellon University, and the University of Pittsburgh.
+  research: [embedded-dependable-systems, real-time-systems, software]
+  software: []
+
+- id: conacyt-155014-bio-inspired
+  title: Bio-Inspired Techniques for the Synthesis of Artificial Neural Networks and Associative Memories
+  dates: 2011-2014
+  funding: CONACYT 155014
+  role: Participating researcher
+  summary: Research project on bio-inspired techniques for artificial neural networks, associative memories, and related applications.
+  research: [artificial-intelligence]
+  software: []
+
+- id: jira-real-time-control-1997
+  title: Real-Time Systems Scheduling Applied to Process Control
+  dates: 1997
+  funding: CINVESTAV-JIRA
+  role: Principal Investigator
+  summary: Research on applying real-time scheduling methods to process-control systems and associated operating-system and simulation support.
+  research: [real-time-systems, real-time-operating-systems, software]
+  software: [matlab-real-time-control-toolbox]
+
+- id: conacyt-j28101a-1998
+  title: Real-Time Systems Scheduling Applied to Process Control
+  dates: 1998
+  funding: CONACYT J28101-A
+  role: Principal Investigator
+  summary: Continuation of research on real-time scheduling for control processes, including operating-system and graphical/simulation support.
+  research: [real-time-systems, real-time-operating-systems, software]
+  software: [matlab-real-time-control-toolbox]
+
+- id: conacyt-42151-energy-rtos
+  title: Design of Real-Time Operating Systems with Energy Management
+  dates: 2003-2005
+  funding: CONACYT 42151
+  role: Principal Investigator
+  summary: Research on real-time operating-system design and energy-aware scheduling/resource management.
+  research: [energy-aware-computing, real-time-operating-systems, real-time-systems, software]
+  software: []
+
+- id: nsf-conacyt-42449-risk
+  title: Development of Risk Assessment Models and Methods for Networked Information Systems
+  dates: 2004-2006
+  funding: NSF-CONACYT 42449-Y
+  role: Principal Investigator; co-directed with Jyh (Steve) Charn Liu, Texas A&M University
+  summary: International project on risk-assessment models and methods for networked information systems.
+  research: [software-engineering, embedded-dependable-systems]
+  software: []
+
+- id: darpa-forts
+  title: "FORTS: Fault Tolerance through Real-Time Systems"
+  dates: 1996-1999
+  funding: DARPA, United States Department of Defense
+  role: Associate Investigator / collaborator, with the University of Pittsburgh
+  summary: International research project integrating fault-tolerance mechanisms with real-time systems and scheduling.
+  research: [real-time-systems, embedded-dependable-systems]
+  software: []
+
+- id: darpa-parts
+  title: "PARTS: Power Aware Scheduling in Real-Time Systems"
+  dates: 2000-2002
+  funding: DARPA, United States Department of Defense
+  role: Collaborator, University of Pittsburgh
+  summary: International research project on power-aware scheduling and energy management for real-time systems.
+  research: [energy-aware-computing, real-time-systems, software]
+  software: []
+
+- id: iie-1877-morelia
+  title: Master Station for Supervisory Control of the CFE Morelia Zone
+  dates: completed 1989
+  funding: Comision Federal de Electricidad
+  role: Design and development participant, Instituto de Investigaciones Electricas
+  summary: Development of a supervisory-control master station for electric-power distribution, including acquisition/control, HMI, communications, alarms, databases, operating systems, and software infrastructure.
+  research: [software, embedded-dependable-systems, real-time-operating-systems]
+  software: [sopco86, sopco51, libes86, sedel, grafco-pc]
+
+- id: iie-2223-dos-bocas
+  title: Distributed Control System for the Dos Bocas Combined-Cycle Power Plant
+  dates: completed 1988
+  funding: Comision Federal de Electricidad
+  role: Design, installation, testing, and software-support participant, Instituto de Investigaciones Electricas
+  summary: Distributed-control project for gas and steam turbines and plant-generation packages, including operating-system installation and testing infrastructure.
+  research: [software, embedded-dependable-systems, real-time-operating-systems]
+  software: [sopco1887, sopco51, msb1887, libes1887]
+
+- id: iie-1744-toluca
+  title: Prototype Master Station for Supervisory Control of the Toluca Zone
+  dates: completed 1991
+  funding: Compania de Luz y Fuerza del Centro
+  role: Design and development participant, Instituto de Investigaciones Electricas
+  summary: Supervisory-control master-station prototype based on the MAC-5000 platform, including acquisition/control, communications, alarms, databases, and operating-system software.
+  research: [software, embedded-dependable-systems, real-time-operating-systems]
+  software: [sopco86, sopco51, libes86, sedel, grafco-pc]
+
+- id: iie-3302-communications
+  title: Basic Communication Tools for Controllers
+  dates: completed 1991
+  funding: Instituto de Investigaciones Electricas / CFE Dos Bocas
+  role: Software design and development participant
+  summary: Communications infrastructure linking programmable controllers and related prototypes for distributed and supervisory control systems.
+  research: [software, embedded-dependable-systems, real-time-operating-systems]
+  software: [sopco1887, sopco51, msb1887, msb51, libes1887, libes51]
+
+- id: iie-3311-test-infrastructure
+  title: Test Infrastructure for Electronic Equipment
+  dates: completed 1991
+  funding: Instituto de Investigaciones Electricas
+  role: Design and development participant
+  summary: Development of diagnostic equipment supporting MAC-5000, SAC IBUS-III, and electrical-energy measurement equipment.
+  research: [software-engineering, software, embedded-dependable-systems]
+  software: []
+
+- id: iie-2819-mac5000-support
+  title: Application Support for the MAC-5000 Master Station
+  dates: completed 1994
+  funding: Instituto de Investigaciones Electricas
+  role: Design, maintenance, and improvement participant
+  summary: Technical support and reliability improvements for alarms, databases, communications, hard-disk management, remote diagnostics, and HMI components of the MAC-5000 master station.
+  research: [software, embedded-dependable-systems]
+  software: [sopco86, msb86, libes86]
+
+- id: iie-2952-diagnostic-equipment
+  title: Diagnostic Equipment for SAC IBUS-III at the Dos Bocas Power Plant
+  dates: completed 1994
+  funding: Comision Federal de Electricidad / Instituto de Investigaciones Electricas
+  role: Software design and development participant
+  summary: Development of field diagnostic equipment for electronic modules used in the distributed-control system at the Dos Bocas power plant.
+  research: [software, software-engineering, embedded-dependable-systems]
+  software: [sopco1887, msb1887, libes1887]
+
+- id: core-software-legal-2009
+  title: Information and Interaction Web System for CINVESTAV Legal Affairs
+  dates: 2009
+  funding: CINVESTAV internal development
+  role: Project Leader
+  summary: Web information and interaction system developed for the CINVESTAV Subdirectorate of Legal Affairs.
+  research: [software-engineering, software]
+  software: [core-software-legal-web]

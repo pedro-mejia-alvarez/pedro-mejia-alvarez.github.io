@@ -1,0 +1,44 @@
+- id: real-time-systems
+  title: Real-Time Scheduling and Real-Time Systems
+  summary: Scheduling theory and system mechanisms for predictable execution under timing constraints, including fixed-priority, dynamic-priority, overload, fault-recovery, and multiprocessor scheduling.
+  keywords: [real-time scheduling, schedulability analysis, overload management, fault recovery, multiprocessor scheduling]
+
+- id: real-time-operating-systems
+  title: Real-Time and Embedded Operating Systems
+  summary: Operating-system support for predictable embedded and real-time execution, with particular emphasis on interrupt handling, exception handling, synchronization, kernels, and low-level runtime mechanisms.
+  keywords: [real-time kernels, interrupts, exceptions, synchronization, operating systems]
+
+- id: energy-aware-computing
+  title: Energy-Aware and Resource-Aware Computing
+  summary: Algorithms and runtime mechanisms for reducing energy consumption while respecting timing constraints, including processor-speed selection, power-aware scheduling, and resource-aware evaluation methods.
+  keywords: [energy-aware scheduling, power management, DVFS, resource management]
+
+- id: real-time-cybersecurity
+  title: Cybersecurity for Real-Time and Cyber-Physical Systems
+  summary: Security mechanisms and attack models in which timing, scheduling, execution patterns, and shared resources interact with confidentiality, integrity, predictability, and resilience.
+  keywords: [cybersecurity, timing attacks, scheduling security, cyber-physical systems]
+
+- id: artificial-intelligence
+  title: Artificial Intelligence and Machine Learning
+  summary: Machine-learning and deep-learning methods applied to sensing, perception, classification, computer vision, health-related data, and intelligent engineering systems.
+  keywords: [machine learning, deep learning, computer vision, neural networks, intelligent systems]
+
+- id: software-engineering
+  title: Software Engineering, Testing, Debugging, and Automated Program Repair
+  summary: Methods and tools for software quality, reliability, automated test generation, debugging, mutation testing, model checking, and automated program repair.
+  keywords: [software engineering, software testing, debugging, mutation testing, program repair]
+
+- id: software
+  title: Software
+  summary: Research software, simulators, experimental implementations, operating-system prototypes, libraries, monitoring and debugging tools, and reproducibility artifacts developed for papers and projects.
+  keywords: [research software, simulation, prototypes, tools, reproducibility]
+
+- id: embedded-dependable-systems
+  title: Embedded, Dependable, and Critical Systems
+  summary: Fault tolerance, dependable embedded systems, critical computing platforms, sensing systems, distributed control, and system-level mechanisms for reliable operation.
+  keywords: [embedded systems, dependable systems, fault tolerance, critical systems]
+
+- id: real-time-databases
+  title: Real-Time Databases and Data Management
+  summary: Database architectures and memory-management techniques for systems with timing, performance, and resource constraints, including real-time database systems and relational database memory management.
+  keywords: [real-time databases, main-memory databases, data management, relational databases]

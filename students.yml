@@ -1,0 +1,253 @@
+phd:
+  - name: Luis Eduardo Leyva del Foyo
+    title: Interrupt, Exception, and Synchronization Handling in Component-Based Embedded and Real-Time Applications
+    institution: CINVESTAV-IPN
+    completion: February 2008
+    status: completed
+  - name: Leticia Davila Nicanor
+    title: Reliability in Internet Information Systems
+    institution: CINVESTAV-IPN
+    completion: June 2008
+    status: completed
+  - name: German Alonso Pinedo Diaz
+    title: Quality Analysis of Retinal Fundus Images Using Generic Indicators and Deep Learning
+    institution: CINVESTAV-Guadalajara
+    completion: August 2025
+    status: completed
+    co_supervisors:
+      - Susana Ortega Cisneros
+
+msc:
+  - name: Jhonatan Alexander Gomez Gamboa
+    title: Automatic Generation of Test Cases from Formal Specifications Using Mutation Testing
+    completion: August 2024
+    status: unverified
+    note: The 2025 CV records August 2024 as the expected graduation date; completion is not stated as verified in the source.
+    co_supervisors:
+      - Raul E. Gonzalez
+  - name: Julio Martinez Mesa
+    title: A Method for Evaluating Access-Control Rules in Perimeter Security Based on Complex-Network Analysis
+    completion: December 2023
+    status: completed
+    co_supervisors:
+      - Arturo Diaz
+  - name: Javier Rojas Juan
+    title: Background Subtraction and Foreground Extraction from Subspace Learning Using Tucker Decomposition
+    completion: August 2023
+    status: completed
+    co_supervisors:
+      - Deni Librado Torres Roman
+  - name: Naydelis Brito Suarez
+    title: Automatic Detection and Updating of the Region of Interest in Vehicular-Traffic Surveillance Videos
+    completion: August 2023
+    status: completed
+    co_supervisors:
+      - Deni Librado Torres Roman
+  - name: Juan Jose Romero Hernandez
+    title: Design of an Operating System on a RISC Platform
+    institution: CINVESTAV-Guadalajara
+    completion: September 2022
+    status: completed
+    co_supervisors:
+      - Susana Ortega Cisneros
+  - name: Juan Bernardo Camacho Tirado
+    title: Automatic Debugging and Repair of Semantic Bugs in JavaScript Programs Using Abductive Reasoning
+    institution: CINVESTAV-Guadalajara
+    completion: August 2022
+    status: completed
+    co_supervisors:
+      - Raul E. Gonzalez
+  - name: Daniset Gonzalez
+    title: Automatic Generation of Test Cases for C Programs Using Model Checking
+    institution: CINVESTAV-Guadalajara
+    completion: December 2021
+    status: completed
+    co_supervisors:
+      - Raul E. Gonzalez
+    source_note: The 2025 CV also records a subsequent position as Frontend Engineer at Envato Mexico.
+  - name: Roman Jaramillo Cajica
+    title: Automatic Test-Case Generation from Formal Specifications Using Mutation Testing
+    institution: CINVESTAV-Guadalajara
+    completion: December 2021
+    status: completed
+    co_supervisors:
+      - Raul E. Gonzalez
+    source_note: The 2025 CV also records a subsequent position at Globant in Guadalajara as a Python developer.
+  - name: German Alonso Pinedo Diaz
+    title: Quality Analysis of Retinal Fundus Images Using Generic Indicators and Deep Learning
+    institution: CINVESTAV-Guadalajara
+    completion: October 2020
+    status: completed
+    co_supervisors:
+      - Susana Ortega Cisneros
+  - name: Ricardo Zavaleta
+    title: Implementation of a Database System in a Soft Real-Time Operating System
+    institution: CINVESTAV-Guadalajara
+    completion: September 2020
+    status: completed
+  - name: Rafael Salazar
+    title: Tool for Mining Sparse Tensors on GPUs
+    institution: CINVESTAV-Guadalajara
+    completion: December 2019
+    status: completed
+  - name: Juan Carlos Hernandez Juarez
+    title: "kFlat: A Real-Time Microkernel on Arduino"
+    institution: CINVESTAV-Guadalajara
+    completion: March 2019
+    status: completed
+  - name: Marcelo Leon Ayala
+    title: Memory Management in Relational Database Systems
+    institution: CINVESTAV-Guadalajara
+    completion: July 2018
+    status: completed
+  - name: David Moncada Madero
+    title: Energy Management in Multiprocessor Scheduling for Real-Time Systems
+    institution: CINVESTAV-Guadalajara
+    completion: February 2018
+    status: completed
+  - name: Fermin Moreno Cabrera
+    title: Random Testing in Dependable Software Systems
+    completion: November 2014
+    status: completed
+  - name: Pedro Eduardo Torres Jimenez
+    title: Delta-Debugging Techniques in Software Testing
+    completion: November 2014
+    status: unverified
+    note: The 2025 CV records November 2014 as the expected graduation date; completion is not stated as verified in the source.
+  - name: Liliana Puente Maury
+    title: A Binary Integer Linear Programming Approach to the Multiprocessor Scheduling Problem
+    start: September 2009
+    completion: February 2012
+    status: completed
+  - name: William Martinez Cortez
+    title: Real-Time Operating-System Microkernel for the 32-bit Intel Architecture
+    start: September 2010
+    completion: November 2012
+    status: completed
+  - name: Hermes Francisco Montes Casiano
+    title: Localization and Tracking of Mobile Devices
+    start: September 2009
+    completion: February 2012
+    status: completed
+  - name: Carlos Jonathan Ferreyra Rodriguez
+    title: Development of a Computing, Communications, and Geolocation Technology System
+    start: September 2008
+    completion: May 3, 2011
+    status: completed
+  - name: Juan Tahuiton Mora
+    title: Software Architecture for Web Applications
+    start: September 2008
+    completion: August 16, 2011
+    status: completed
+  - name: Luis Enrique Figueroa Medina
+    title: Behavioral Simulation for Humanoid Robots in a Soccer Game
+    start: September 2008
+    completion: January 2011
+    status: completed
+  - name: Roberto Linares Zamora
+    title: MATLAB/Simulink Tool for Simulating a Real-Time Control System
+    start: September 2004
+    completion: June 2006
+    status: completed
+  - name: Luis Arturo Jimenez Mendoza
+    title: Database Manager in a Real-Time System
+    start: January 2003
+    completion: November 2006
+    status: completed
+  - name: Luis de Jesus Gonzalez
+    title: Security in Real-Time Multimedia Systems
+    start: September 2003
+    completion: August 2005
+    status: completed
+  - name: Jose Jaime Lopez Rabadan
+    title: Software Design Techniques for Internet Information Systems
+    start: September 2003
+    completion: September 2005
+    status: completed
+  - name: Francisco Javier Zuluaga Ramirez
+    title: Linux-Based Kernel for a PDA with Support for Real-Time Processes
+    start: September 2004
+    completion: November 2005
+    status: unverified
+    note: The 2025 CV records November 2005 as the expected graduation date; completion is not stated as verified in the source.
+  - name: Juan Carlos Medina Martinez
+    title: Software Requirements Engineering Techniques
+    start: September 2002
+    completion: June 2004
+    status: completed
+  - name: Oscar Miranda Gomez
+    title: Design of Real-Time Operating Systems
+    start: September 2002
+    completion: March 2004
+    status: completed
+    co_supervisors:
+      - Alberto Soria Lopez
+  - name: Miguel Angel Fajardo
+    title: Development of a Graphical System for Analysis, Design, and Monitoring of Real-Time Tasks
+    start: September 2001
+    completion: October 2003
+    status: completed
+  - name: Leticia Davila Nicanor
+    title: Quality Evaluation in Internet Information Systems
+    start: September 2002
+    completion: December 2003
+    status: completed
+  - name: Omar Ulises Pereira Zapata
+    title: Comparative Analysis of Real-Time Scheduling Algorithms in Multiprocessor Systems
+    completion: January 2003
+    status: completed
+  - name: Julio Cesar Cornejo Herrera
+    title: Feedback Scheduler for Real-Time Tasks with Energy Constraints
+    completion: November 2002
+    status: completed
+    co_supervisors:
+      - Alberto Soria Lopez
+  - name: Ismael Daza Velasquez
+    title: Development of a Real-Time Operating System Based on the 8051 Microcontroller
+    institution: CENYDET, Cuernavaca, Mexico
+    completion: "1990"
+    status: completed
+
+undergraduate:
+  - name: Enrique Garcia Sanchez
+    title: Noise Analysis in an Electrocardiographic Signal and QRS Detection in the Presence of Noise
+    institution: Universidad Politecnica de Madrid, Spain
+    completion: March 1995
+    status: completed
+  - name: Luis Mengibar
+    title: Detection of Wolff-Parkinson-White Syndrome Using Artificial Neural Networks
+    institution: Universidad Politecnica de Madrid, Spain
+    completion: October 1995
+    status: completed
+  - name: Maria del Carmen Gonzalez
+    title: Pattern Recognition in Electrocardiograms Using Neural Networks
+    institution: Universidad Politecnica de Madrid, Spain
+    completion: October 1994
+    status: completed
+  - name: Antonio Velasco Bodega
+    title: Detection of Premature Ventricular Contractions Using Artificial Neural Networks
+    institution: Universidad Politecnica de Madrid, Spain
+    completion: March 1995
+    status: completed
+  - name: Monica Aguilera
+    title: Design of a Support Environment for the SOPCO-51 Real-Time Operating System
+    institution: Tecnologico de Queretaro, Mexico
+    completion: "1990"
+    status: completed
+  - name: Karen Cortes Verdin
+    title: C-Language Support for a Multiprocessor Real-Time Operating System
+    institution: Universidad Veracruzana, Mexico
+    completion: "1989"
+    status: completed
+
+postdoctoral:
+  - name: Arnoldo Diaz Ramirez
+    title: Postdoctoral Research Stay
+    institution: Instituto Tecnologico de Mexicali
+    period: January 2010 – December 2011
+    note: The 2025 CV identifies the postdoctoral researcher and period but does not state a specific project title.
+  - name: Francisco Gonzalez Horta
+    title: Postdoctoral Research Stay
+    institution: INAOE graduate
+    period: September 2012 – September 2014
+    note: The 2025 CV identifies the postdoctoral researcher and period but does not state a specific project title.

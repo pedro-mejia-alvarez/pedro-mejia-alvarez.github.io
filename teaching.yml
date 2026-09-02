@@ -1,0 +1,65 @@
+course_families:
+  - title: Real-Time Systems
+    description: Scheduling, timing analysis, real-time kernels, predictability, and applications of time-constrained computing.
+  - title: Operating Systems
+    description: Operating-system concepts, processes, concurrency, scheduling, memory, and systems implementation.
+  - title: Software Engineering
+    description: Software engineering methods, design, development processes, and advanced software-engineering topics.
+  - title: Software Testing and Reliability
+    description: Testing techniques, software reliability, dependable software, and quality evaluation.
+  - title: Advanced and Selected Topics
+    description: Advanced software engineering, selected mathematics topics, and specialized computing subjects.
+  - title: Computing Foundations
+    description: Graduate computing foundations represented in the CV by Computing I.
+  - title: Social and Professional Context of Computing
+    description: Social and professional dimensions of computing; taught as a shared course.
+
+history:
+  - {course: Real-Time Systems, period: May–August 1997, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Operating Systems, period: September–December 1997, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: January–April 1998, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Operating Systems, period: September–December 1998, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2000, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: January–April 2001, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2001, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: January–April 2002, institution: CINVESTAV-IPN, hours: 60}
+  - {course: "Selected Topics in Computing: Advanced Software Engineering Techniques", period: January–April 2002, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Social and Professional Context of Computing, period: May–July 2002, institution: CINVESTAV-IPN, hours: 60, note: Shared with three professors}
+  - {course: Software Engineering, period: September–December 2002, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: January–April 2003, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2003, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: May–August 2004, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2004, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: May–August 2006, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2006, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: May–August 2007, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2007, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: May–August 2008, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2008, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: May–August 2009, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2009, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: May–August 2010, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2010, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Real-Time Systems, period: January–April 2011, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2012, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: January–April 2013, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Testing and Reliability, period: May–August 2013, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: January–April 2014, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Testing and Reliability, period: May–August 2014, institution: CINVESTAV-IPN, hours: 60}
+  - {course: Software Engineering, period: September–December 2015, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Software Testing and Reliability, period: January–April 2016, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Operating Systems, period: May–August 2016, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Software Engineering II, period: January–April 2017, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Operating Systems, period: May–August 2017, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Operating Systems, period: September–December 2017, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Software Engineering II, period: May–August 2018, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Computing I, period: September–December 2019, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Computing I, period: September–December 2020, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Computing I, period: September–December 2021, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Selected Topics in Mathematics II, period: May–August 2021, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Selected Topics in Mathematics I, period: May–August 2022, institution: CINVESTAV-Guadalajara, hours: 60}
+  - {course: Software Engineering, period: January–June 1996, institution: Centro de Investigacion en Computacion, IPN, hours: 80, category: external graduate program}
+  - {course: Software Engineering, period: September 1996–February 1997, institution: Centro de Investigacion en Computacion, IPN, hours: 80, category: external graduate program}
+  - {course: Real-Time Systems, period: January–June 1997, institution: Centro de Investigacion en Computacion, IPN, hours: 80, category: external graduate program}
+  - {course: Software Engineering, period: January–April 2000, institution: University of Pittsburgh, hours: 40, category: external graduate program}
+  - {course: Software Engineering, period: May–August 2000, institution: University of Pittsburgh, hours: 40, category: external graduate program}

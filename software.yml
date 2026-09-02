@@ -1,0 +1,180 @@
+- id: sopco86
+  name: SOPCO-86
+  purpose: Real-time operating system for concurrent processes on x86-class platforms used in supervisory-control projects.
+  status: historical
+  platform: x86 / MAC-5000 related platforms
+  research: [software, real-time-operating-systems, embedded-dependable-systems]
+  projects: [iie-1877-morelia, iie-1744-toluca, iie-2819-mac5000-support]
+  papers: []
+
+- id: sopco51
+  name: SOPCO-51
+  purpose: Real-time operating system for communications subsystems based on 8051-family hardware.
+  status: historical
+  platform: 8051 / PC-851 communications hardware
+  research: [software, real-time-operating-systems, embedded-dependable-systems]
+  projects: [iie-1877-morelia, iie-1744-toluca, iie-2223-dos-bocas, iie-3302-communications]
+  papers: []
+
+- id: sopco1887
+  name: SOPCO-1887
+  purpose: Operating-system software for SAC-1887 controller platforms used in communications and diagnostic systems.
+  status: historical
+  platform: SAC-1887
+  research: [software, real-time-operating-systems, embedded-dependable-systems]
+  projects: [iie-2223-dos-bocas, iie-3302-communications, iie-2952-diagnostic-equipment]
+  papers: []
+
+- id: msb86
+  name: MSB-86 Monitor and Debugger
+  purpose: Monitoring and debugging environment for SOPCO-86-based systems.
+  status: historical
+  platform: x86
+  research: [software, software-engineering, real-time-operating-systems]
+  projects: [iie-2819-mac5000-support]
+  papers: []
+
+- id: msb51
+  name: MSB-51 Monitor
+  purpose: Monitoring and debugging software for communications-controller systems.
+  status: historical
+  platform: 8051 / PC-851
+  research: [software, software-engineering, real-time-operating-systems]
+  projects: [iie-3302-communications]
+  papers: []
+
+- id: msb1887
+  name: MSB-1887 Monitor and Debugger
+  purpose: Monitoring and debugging software for SAC-1887-based embedded systems.
+  status: historical
+  platform: SAC-1887
+  research: [software, software-engineering, real-time-operating-systems]
+  projects: [iie-2223-dos-bocas, iie-3302-communications, iie-2952-diagnostic-equipment]
+  papers: []
+
+- id: libes86
+  name: LIBES-86
+  purpose: Software library supporting input/output and system utilities for SOPCO-86-based applications.
+  status: historical
+  platform: x86
+  research: [software, real-time-operating-systems]
+  projects: [iie-1877-morelia, iie-1744-toluca, iie-2819-mac5000-support]
+  papers: []
+
+- id: libes51
+  name: LIBES-51
+  purpose: Utility software library supporting communications-controller applications.
+  status: historical
+  platform: 8051 / PC-851
+  research: [software, real-time-operating-systems]
+  projects: [iie-3302-communications]
+  papers: []
+
+- id: libes1887
+  name: LIBES-1887
+  purpose: Utility software library for SAC-1887 embedded-controller applications.
+  status: historical
+  platform: SAC-1887
+  research: [software, real-time-operating-systems]
+  projects: [iie-2223-dos-bocas, iie-3302-communications, iie-2952-diagnostic-equipment]
+  papers: []
+
+- id: libesc
+  name: LIBESC
+  purpose: C-language support library for SOPCO-86 applications.
+  status: historical
+  platform: C / SOPCO-86
+  research: [software, real-time-operating-systems]
+  projects: []
+  papers: []
+
+- id: sedel
+  name: SEDEL
+  purpose: Electrical-diagram editing system developed for supervisory-control engineering environments.
+  status: historical
+  platform: PC / MAC-5000 engineering environment
+  research: [software, embedded-dependable-systems]
+  projects: [iie-1877-morelia, iie-1744-toluca]
+  papers: []
+
+- id: grafco-pc
+  name: GRAFCO-PC
+  purpose: Graphics kernel supporting engineering and supervisory-control software.
+  status: historical
+  platform: PC
+  research: [software]
+  projects: [iie-1877-morelia, iie-1744-toluca]
+  papers: []
+
+- id: iapsopc
+  name: IAPSOPC
+  purpose: Interfaces between C applications and the SOPCO-86 operating system.
+  status: historical
+  platform: C / SOPCO-86
+  research: [software, real-time-operating-systems]
+  projects: []
+  papers: []
+
+- id: functional-tester-runner
+  name: Functional Tester Runner Tool
+  purpose: Software testing tool documented in a 2016 research publication.
+  status: research prototype
+  research: [software, software-engineering]
+  projects: []
+  papers: [davila2016functional]
+  paper_titles: [Functional Tester Runner Tool]
+
+- id: rt-multiprocessor-simulator
+  name: Multiprocessor Real-Time Scheduling Simulation Tool
+  purpose: Simulation software for evaluating multiprocessor real-time scheduling algorithms.
+  status: research prototype
+  research: [software, real-time-systems]
+  projects: []
+  papers: [diaz2012simtool]
+  paper_titles: [A multiprocessor real-time scheduling simulation tool]
+
+- id: matlab-real-time-control-toolbox
+  name: MATLAB/Simulink Toolbox for Real-Time Control Task Design
+  purpose: Toolbox for designing and simulating real-time control tasks using MATLAB/Simulink.
+  status: research prototype
+  platform: MATLAB/Simulink
+  research: [software, real-time-systems]
+  projects: [jira-real-time-control-1997, conacyt-j28101a-1998]
+  papers: [linares2005toolbox]
+  paper_titles: [Toolbox for Real-Time Control Task Design using MatLab Simulink]
+
+- id: mutation-testcase-generator
+  name: Formal-Specification Mutation Test-Case Generator
+  purpose: Research prototype for automatic generation of test cases from formal specifications using mutation testing.
+  status: research prototype
+  research: [software, software-engineering]
+  projects: []
+  papers: [cajica2021mutation]
+  paper_titles: [Automatic Generation of Test Cases from Formal Specifications using Mutation Testing]
+
+- id: model-checking-testcase-generator
+  name: Model-Checking Test-Case Generator for C Programs
+  purpose: Research prototype for automatic test-case generation for C programs using model checking.
+  status: research prototype
+  research: [software, software-engineering]
+  projects: []
+  papers: [gonzalez2021modelchecking]
+  paper_titles: [Automatic Test Cases Generation for C Written Programs Using Model Checking]
+
+- id: core-software-legal-web
+  name: CINVESTAV Legal Affairs Information and Interaction System
+  purpose: Web information and interaction system developed for CINVESTAV legal-affairs operations.
+  status: historical
+  platform: Web application
+  research: [software, software-engineering]
+  projects: [core-software-legal-2009]
+  papers: []
+
+- id: current-github-research-artifacts
+  name: Current Open Research Artifacts
+  purpose: Repositories supporting current papers, experiments, books, and projects as they are prepared for public release on GitHub.
+  status: active
+  research: [software, software-engineering, real-time-systems, real-time-cybersecurity]
+  projects: []
+  papers: []
+  note: Repository links will be added only when the corresponding artifacts are actually public.
