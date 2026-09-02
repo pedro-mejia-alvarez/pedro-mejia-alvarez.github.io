@@ -160,8 +160,14 @@ scholar:
   details_dir: bibliography
   details_link: Details
   query: "@*"
-  group_by: year
-  group_order: descending
+  group_by: type, year
+  group_order: ascending, descending
+  type_order: [article, inproceedings, incollection, book]
+  type_names:
+    book: Books
+    incollection: Book Chapters
+    article: Journal Papers
+    inproceedings: Conference Papers
 
 # Avoid external citation badges until IDs/services are intentionally configured.
 enable_publication_badges:
