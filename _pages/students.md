@@ -8,6 +8,15 @@ nav_order: 7
 
 Graduate supervision has been an important part of my academic work. The records below are translated and structured from my 2025 curriculum vitae. Entries whose source records only an *expected* graduation date are explicitly marked as unverified rather than being presented as completed degrees.
 
+## Postdoctoral researchers
+
+{% for researcher in site.data.students.postdoctoral %}
+**{{ researcher.name }}** — {{ researcher.title }}  
+{{ researcher.institution }} · {{ researcher.period }}  
+{% if researcher.note %}{{ researcher.note }}{% endif %}
+
+{% endfor %}
+
 ## PhD supervision
 
 {% for student in site.data.students.phd %}
@@ -35,11 +44,3 @@ Graduate supervision has been an important part of my academic work. The records
 
 {% endfor %}
 
-## Postdoctoral researchers
-
-{% for researcher in site.data.students.postdoctoral %}
-**{{ researcher.name }}** — {{ researcher.title }}  
-{{ researcher.institution }} · {{ researcher.period }}  
-{% if researcher.note %}{{ researcher.note }}{% endif %}
-
-{% endfor %}
