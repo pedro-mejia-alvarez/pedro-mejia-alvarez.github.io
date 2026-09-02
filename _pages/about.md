@@ -5,7 +5,7 @@ permalink: /
 subtitle: Professor and Researcher in Artificial Intelligence, Real-Time Systems, and Software Engineering
 nav: true
 nav_order: 1
-selected_papers: true
+selected_papers: false
 social: true
 announcements:
   enabled: false
