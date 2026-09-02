@@ -11,7 +11,6 @@ announcements:
   enabled: false
 ---
 
-# Pedro Mejia-Alvarez
 
 I am a professor, researcher, and engineer at **CINVESTAV** whose work spans **real-time systems, artificial intelligence, software engineering, embedded systems, dependable computing, and data-intensive systems**. My research combines theoretical analysis with the design and implementation of software and system prototypes used to evaluate scheduling, operating-system, testing, debugging, and reliability techniques.
 
